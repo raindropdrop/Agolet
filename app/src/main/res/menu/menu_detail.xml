@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="io.agora.agolet.DetailActivity">
+
+    <item android:id="@+id/action_subscribe"
+        android:title="@string/action_subscribe"
+        app:showAsAction="ifRoom"/>
+
+</menu>

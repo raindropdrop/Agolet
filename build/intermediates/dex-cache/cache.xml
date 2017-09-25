@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Desktop/Agolet/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/com.github.satyan-sugar-1.4_0775361c933d4c38cde9c1528803e2fd356e2b37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Desktop/Agolet/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_ce5ca16753449d7ec7b8caf080e46b6b94241d72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Desktop/Agolet/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_65712ee7c71ec24ddafa50294c100adb7529febb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/gson-2.4_bd3eefa2a8ad7d3c8612bd21bc2da1b55d297e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/okio-1.9.0_1c8fa9aebfa5af79c4025775e648487e11cb5671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Desktop/Agolet/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_20ff2c15bf8b8ac78873940848e4a781339a3625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Desktop/Agolet/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_597b9213812c26b91c5b34c3ed5fae12e919076e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Desktop/Agolet/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_535097d59f61b0da52eac8165191a05e5e844733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Desktop/Agolet/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_eb4bf0293bbb7da8006d7148df01eecc4ef5f8fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/guava-18.0_2f2f4f42326d6eb928b1384e52a47be497dbef82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_563bebcf7014bda299233046db4d750699ed1fd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Desktop/Agolet/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_769f04040e1c5c30730052e816b58c6d82fa4d99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Desktop/Agolet/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_dd21ad31460b6024252c85a707cd68e15648cb1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Desktop/Agolet/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_4db03a49d56bd82c793d5b59ea36aac565e09d8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_b108a523e7b8e262e53c85cb4157a91c10749ca4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Desktop/Agolet/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_ab0865db24e701d7c1ea3382f9893e72beffdf72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Desktop/Agolet/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_09b381c59e70fa66086ab3a11290bdc30a7b9e3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lucy/Desktop/Agolet/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Lucy/Desktop/Agolet/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_01a2cfbd0098752f5fd110345a8fb9fc995e047f.jar" />
+    </item>
+
+</items>
